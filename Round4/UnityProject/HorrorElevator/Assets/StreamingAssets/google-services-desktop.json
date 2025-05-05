@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "983476073725",
+    "firebase_url": "https://elevator-deaa8-default-rtdb.firebaseio.com",
+    "project_id": "elevator-deaa8",
+    "storage_bucket": "elevator-deaa8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:983476073725:android:4af95ec3dcb4a98ee93a94",
+        "android_client_info": {
+          "package_name": "team50.etc.cmu"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTI-ZbKSoPndF_j5i4hu0NWWRPcmjGMdI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
